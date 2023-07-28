@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://imgur.com/a/VMS5A4i);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/1047110683252232233/1134375885940727899/FBiqQM5XEAIh8Mi_2.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/1047110683252232233/1120194686418681886/IMG_6190.png);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/1047110683252232233/1134375427239067648/slayihauifh.jpg);
 
   /*
     Change your friends icon image position
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 126px;
+  --server-listing-width: 62px;
 
   /*
     Font Size
