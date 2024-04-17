@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/857480193064435726/1211537371376386059/hdhf.jpg?ex=65ee8f1a&is=65dc1a1a&hm=447edc2a25aedaabd3865e91028b3af9b0cb7e51de377ae41bdb50378d9748d5&);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/1047110683252232233/1219778420054032494/IMG_9359.png?ex=6631742d&is=661eff2d&hm=12f7c2ef8fd26d21a9480cbf93d141aeed02e9121dba4d85138375e10bb946b0&);
 
   /*
     Change your friends icon image position
@@ -55,7 +55,7 @@
     Triple Column:  184px
     Quad Column:    242px
   */
-  --server-listing-width: 62px;
+  --server-listing-width: 63px;
 
   /*
     Font Size
